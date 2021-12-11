@@ -1,5 +1,5 @@
 # log4j-fuzz-head-poc
-针对 log4j来批量fuzzz 请求头检测，有效检测一些头部存在的安全风险，nuclei默认使用interactsh
+针对 log4j来批量fuzzz 请求头检测，有效检测一些头部存在的安全风险，nuclei默认使用interactsh，建议自建dnslog
 
 添加了绕过rc1的poc
 
