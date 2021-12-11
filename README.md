@@ -1,4 +1,4 @@
-# log4j-fuzz-head-poc
+# log4j-fuzz-head-poc轻量级检测
 针对 log4j来批量fuzzz 请求头检测，有效检测一些头部存在的安全风险，nuclei默认使用interactsh的dnslog
 
 ### v2版本
