@@ -24,3 +24,21 @@ ${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower:i}}://xxxxxxx.xx/p
 
 ![image](https://user-images.githubusercontent.com/50769953/145665694-21632dd2-7336-474b-80ed-9cdba4919898.png)
 
+* X-Client-IP
+* X-Remote-IP
+* X-Remote-Addr
+* X-Forwarded-For
+* X-Originating-IP
+* User-Agent
+* Referer
+* CF-Connecting_IP
+* True-Client-IP
+* X-Forwarded-For
+* Originating-IP
+* X-Real-IP
+* X-Client-IP
+* Forwarded
+* Client-IP
+* Contact
+* X-Wap-Profile
+* X-Api-Version
