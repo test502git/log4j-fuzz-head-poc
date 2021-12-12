@@ -1,5 +1,5 @@
-# log4j-fuzz-head-poc轻量级检测
-针对 log4j来批量fuzzz 请求头检测，有效检测一些头部存在的安全风险，nuclei默认使用interactsh的dnslog
+# log4j2漏洞快速轻量级检测
+针对 log4j来批量fuzz 请求头检测，有效检测一些头部存在的安全风险，nuclei默认使用interactsh的dnslog
 
 为什么用这种，这种方法也是从蜜罐中获取到攻击组织最常用的方法，简单，有效
 
